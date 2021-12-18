@@ -1,0 +1,42 @@
+
+
+p {font-family: papyrus;}
+
+    
+
+.centerimage {
+    text-align: center;
+    width: auto;
+}
+
+.centerimagehome {
+    text-align: center;
+    width: auto;
+}
+
+.textalignhome {
+    text-align: center;
+}
+
+.textalignaboutme {
+    text-align: center;
+}
+
+.homepagefont {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-color: turquoise;
+}
+
+.blue {
+    background-color: lightblue ;
+}
+
+.lightblue2 {
+    background-color: lightblue;
+}
+
+.backtotopfont {
+    font-size: 17px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
